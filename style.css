@@ -1,0 +1,9 @@
+<link href="https://fonts.googleapis.com/css?family=Tektur:regular,500,600,700,800,900" rel="stylesheet" />
+h2 {
+  font-size: 20px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 8px;
+}
